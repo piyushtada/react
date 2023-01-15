@@ -1,9 +1,7 @@
 # react
 All the things I am learning about react while doing Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)
 
-202301150853
-Status:
-Tags:
+> Press . to start vs code in the browser 
 
 # Complete React Developer
 
