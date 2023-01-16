@@ -25,7 +25,22 @@ npx create-react-app my-app
 ```
 
 **react scripts** in package.json is there to make our life simple we describe ==scripts== in the dictionary below to do what we want 
+- eject: is there so we can modifiy the behaviour of build process if needed but mostly we will not need it
 
+> Babble converts our code into something that all browser can understand in converts it
+> Webpack: is chucking the big js file so the user only gets the portion need by him at that time
+
+## manifest.json
+provides setup in case user wants to download the app and run locally
+
+## robots.txt
+tells the google clawer what the app is.
+
+React is just using functions to return some html. 
+
+## Hooks vs Classes
+Hooks are specific to the react but classes are general programming concept.
+Both of them are used to create react app.
 
 
 
