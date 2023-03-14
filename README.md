@@ -49,6 +49,8 @@ Both of them are used to create react app.
 ```shell
 npx kill-port 3000
 ```
+
 This command will stop the server on port 3000 then you can start working again.
+
 ---
 # References 
