@@ -6,7 +6,7 @@ All the things I am learning about react while doing Complete React Developer in
 # Complete React Developer
 
 We install React developer tools from chrome store
-> JSX : html like code that we use in side js
+> JSX : html like code that we use in side js, it's an extention of js code
  Declaraive: it means we define the data and the state and react make the changes to the website to show our changes
 
 ```bash
@@ -43,6 +43,12 @@ Hooks are specific to the react but classes are general programming concept.
 Both of them are used to create react app.
 
 
-
+# Issues & Tips
+## When you get a 3000 server is running error
+[stackoverflow](https://stackoverflow.com/questions/49022731/keep-getting-something-is-already-running-on-port-3000-when-i-do-npm-start-o)
+```shell
+npx kill-port 3000
+```
+This command will stop the server on port 3000 then you can start working again.
 ---
 # References 
